@@ -11,13 +11,7 @@ il {
    font-size: 20px;
   text-align: left;
 }
-h2 {
-  font-size: 25px;
-  text-align: left;
-    background-color: #dcdcdc;
-   padding: 20px;
-  width: 260px;
-}
+h2,
 h3 {
   font-size: 25px;
   text-align: left;
